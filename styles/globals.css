@@ -30,7 +30,7 @@
     }
 
     a:not(.btn) {
-        @apply underline transition hover:opacity-80;
+        @apply transition hover:opacity-80;
     }
 
     :not(pre) > code {
